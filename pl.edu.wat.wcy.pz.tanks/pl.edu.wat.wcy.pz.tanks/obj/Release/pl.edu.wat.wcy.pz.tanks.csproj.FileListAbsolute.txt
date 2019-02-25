@@ -1,0 +1,15 @@
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\res\czołgV1.png
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\res\czołgV2.png
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\res\floor.png
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\res\swamp.png
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\res\walle.png
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\pl.edu.wat.wcy.pz.tanks.exe.config
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\pl.edu.wat.wcy.pz.tanks.exe
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\bin\Release\pl.edu.wat.wcy.pz.tanks.pdb
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\obj\Release\pl.edu.wat.wcy.pz.tanks.csprojAssemblyReference.cache
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\obj\Release\pl.edu.wat.wcy.pz.tanks.GameWindow.resources
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\obj\Release\pl.edu.wat.wcy.pz.tanks.Properties.Resources.resources
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\obj\Release\pl.edu.wat.wcy.pz.tanks.csproj.GenerateResource.cache
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\obj\Release\pl.edu.wat.wcy.pz.tanks.csproj.CoreCompileInputs.cache
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\obj\Release\pl.edu.wat.wcy.pz.tanks.exe
+C:\Users\Patron\Desktop\pl.edu.wat.wcy.pz.tanks\pl.edu.wat.wcy.pz.tanks\obj\Release\pl.edu.wat.wcy.pz.tanks.pdb
